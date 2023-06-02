@@ -1,0 +1,2 @@
+Model trained on 300 images of each class
+Each image with a size of 300 by 300!
