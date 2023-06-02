@@ -16,7 +16,9 @@
 
 ## How to run the application?
 - You only need a android device running Android 8.0 or later.
-- Install the [APK file](https://media.githubusercontent.com/media/Kunal-Attri/Fruit-Quality-Detection/main/FQD.apk) given in the root directory.
+- Download the [APK file](https://media.githubusercontent.com/media/Kunal-Attri/Fruit-Quality-Detection/main/FQD.apk) given in the root directory.
+- Install it in your android phone.
+- Run the application.
 - App needs 2 permissions - Camera permission to take images and Files permission to read images from gallery.
 
 ## Related Files
