@@ -26,9 +26,7 @@
 - You can customize Android App. All of tis source files are under the folder 'Android Files Java'
 
 ## Result
-<img src="images/good_apple.jpg" width=100>
-<img src="images/bad_banana.jpg" width=100>
-<img src="images/good_pomegranate.jpg" width=100>
+<img src="images/good_apple.jpg" width=100><img src="images/bad_banana.jpg" width=100><img src="images/good_pomegranate.jpg" width=100>
 
 
 ## References
