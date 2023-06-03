@@ -14,7 +14,7 @@
 - The Android app is developed using the Java. It is designed for devices running Android 8.0 or later, including the latest Android 12. The core of the application relies on an advanced Deep Learning model known as EfficientNetB5, renowned for its exceptional performance in image classification tasks.
 
 ## Demo
-<video src="images/demo.mp4"></video>
+
 
 ## How to run the application?
 1. Ensure that your Android device is running Android 8.0 or a more recent version.
@@ -26,10 +26,10 @@
 ## Model Training Results
 We trained a DNN model with EfficientNet B5 as th base model to classify fruit images into various type. On training, we got the following results.
 <p>Training Loss and acuracy across epochs trained:<br>
-<img src="images/loss_accuracy.png" width=500>
+<img src="images/loss_accuracy.png" width=700>
 <br><br>
 Confusion Matrix:<br>
-<img src="images/confusion_matrix.png" width=500></p>
+<img src="images/confusion_matrix.png" width=700></p>
 
 ## Results
 The Fruit Quality Detection application offers robust and accurate fruit quality detection. It provides users with the ability to classify fruits into three distinct categories: good, bad, or mixed, enabling informed decisions regarding fruit selection and quality assessment.<br>
