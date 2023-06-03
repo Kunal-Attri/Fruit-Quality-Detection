@@ -14,7 +14,7 @@
 - The Android app is developed using the Java. It is designed for devices running Android 8.0 or later, including the latest Android 12. The core of the application relies on an advanced Deep Learning model known as EfficientNetB5, renowned for its exceptional performance in image classification tasks.
 
 ## Demo
-<video src="images/demo.mp4" width=150></video>
+<video src="images/demo.mp4"></video>
 
 ## How to run the application?
 1. Ensure that your Android device is running Android 8.0 or a more recent version.
@@ -23,24 +23,23 @@
 4. Launch the application.
 5. Please grant the app two essential permissions: camera permission for capturing images and files permission for accessing images from the gallery.
 
+## Model Training Results
+We trained a DNN model with EfficientNet B5 as th base model to classify fruit images into various type. On training, we got the following results.
+<p>Training Loss and acuracy across epochs trained:<br>
+<img src="images/loss_accuracy.png" width=500>
+<br><br>
+Confusion Matrix:<br>
+<img src="images/confusion_matrix.png" width=500></p>
+
+## Results
+The Fruit Quality Detection application offers robust and accurate fruit quality detection. It provides users with the ability to classify fruits into three distinct categories: good, bad, or mixed, enabling informed decisions regarding fruit selection and quality assessment.<br>
+<img src="images/good_apple.jpg" width=150> <img src="images/good_pomegranate.jpg" width=150> <img src="images/bad_banana.jpg" width=150> <img src="images/bad_pomegranate.jpg" width=150>
+
 ## Related Files
 - Figma Design Link: [Fruit Quality Detection](https://www.figma.com/file/aqndq21uAoHvwE20UXPsql/Ai-Camera-App-(Community)?type=design&node-id=0%3A1&t=WRRVOR0uBZatYwRx-1)
 - Dataset Link: [Kaggle](https://www.kaggle.com/datasets/shashwatwork/fruitnet-indian-fruits-dataset-with-quality)
 - Colab Model Training Files: [Google Colab](https://colab.research.google.com/drive/1ILmnlWuZe9N5_qfIGSQdfNox-kMOUJsd?usp=sharing) (Request for access)
 - If you wish to customize the Android app, all the source files are conveniently located in the 'Android Files Java' folder, available for download as a zip file.
-
-## Model Training Results
-We trained a DNN model with EfficientNet B5 as th base model to classify fruit images into various type. On training, we got the following results.
-<p>Training Loss and acuracy across epochs trained:<br>
-<img src="images/loss_accuracy.png" width=150>
-<br><br>
-Confusion Matrix:<br>
-<img src="images/confusion_matrix.png" width=150></p>
-
-## Results
-The Fruit Quality Detection application offers robust and accurate fruit quality detection. It provides users with the ability to classify fruits into three distinct categories: good, bad, or mixed, enabling informed decisions regarding fruit selection and quality assessment.
-<img src="images/good_apple.jpg" width=150> <img src="images/good_pomegranate.jpg" width=150> <img src="images/bad_banana.jpg" width=150> <img src="images/bad_pomegranate.jpg" width=150>
-
 
 ## References
 To build this project, we drew upon the expertise and research from the following sources:
