@@ -14,7 +14,7 @@
 - The Android app is developed using the Java. It is designed for devices running Android 8.0 or later, including the latest Android 12. The core of the application relies on an advanced Deep Learning model known as EfficientNetB5, renowned for its exceptional performance in image classification tasks.
 
 ## Demo
-
+https://github.com/Kunal-Attri/Fruit-Quality-Detection/assets/35298757/ec67660c-16ad-4f2e-b866-67d48165e885
 
 ## How to run the application?
 1. Ensure that your Android device is running Android 8.0 or a more recent version.
