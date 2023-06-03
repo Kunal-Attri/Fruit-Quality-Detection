@@ -25,7 +25,7 @@
 - Figma Design Link: [Fruit Quality Detection](https://www.figma.com/file/aqndq21uAoHvwE20UXPsql/Ai-Camera-App-(Community)?type=design&node-id=0%3A1&t=WRRVOR0uBZatYwRx-1)
 - Dataset Link: [Kaggle](https://www.kaggle.com/datasets/shashwatwork/fruitnet-indian-fruits-dataset-with-quality)
 - Colab Model Training Files: [Google Colab](https://colab.research.google.com/drive/1ILmnlWuZe9N5_qfIGSQdfNox-kMOUJsd?usp=sharing) (Request for access)
-- You can customize Android App. All of tis source files are under the folder 'Android Files Java'
+- You can customize Android App. All of it's source files are under the folder 'Android Files Java' in a zip folder.
 
 ## Result
 <img src="images/good_apple.jpg" width=150> <img src="images/good_pomegranate.jpg" width=150> <img src="images/bad_banana.jpg" width=150> <img src="images/bad_pomegranate.jpg" width=150>
