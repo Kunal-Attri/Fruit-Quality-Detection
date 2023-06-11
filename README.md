@@ -17,7 +17,7 @@
 https://github.com/Kunal-Attri/Fruit-Quality-Detection/assets/35298757/ec67660c-16ad-4f2e-b866-67d48165e885
 
 ## How to run the application?
-1. Ensure that your Android device is running Android 8.0 or a more recent version.
+1. Ensure that your Android device is running Android 8.0 or higher.
 2. Download the [APK file](https://media.githubusercontent.com/media/Kunal-Attri/Fruit-Quality-Detection/main/FQD.apk) provided in the root directory.
 3. Install the APK file on your Android phone.
 4. Launch the application.
